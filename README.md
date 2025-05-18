@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaman813
-- 👀 I’m interested in Mechanical engineering, Machine learning and working with APIs.
-- 🌱 I’m currently learning Machine Learning with TensorFlow
+- 👀 I’m interested in Mechanical engineering, Machine learning.
+- 🌱 I’m currently learning how to be better Data Scientist.
 - 💞️ I’m looking to collaborate on any programming projects. Feel free to reach out to me, I will be interested in it for sure!
 - 📫 How to reach me --> email at aryaman.sharma.work@gmail.com
 
